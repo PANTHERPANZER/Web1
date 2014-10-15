@@ -1,4 +1,4 @@
-package DBP;//My C4
+package DBP;//Change for B3
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -15,3 +15,5 @@ public class Connect {
 		return con;
 	}
 }
+
+no conflict here
