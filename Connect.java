@@ -1,4 +1,4 @@
-package DBP;//Change for B3
+package DBP;//Change
 
 import java.sql.Connection;
 import java.sql.DriverManager;

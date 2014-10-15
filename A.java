@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package rsgl;//change for B3
+=======
+package rsgl;//change for B2
+>>>>>>> C4
 
 import java.awt.* ;
 import java.awt.event.*;

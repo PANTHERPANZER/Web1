@@ -1,4 +1,4 @@
-package books;//Change for B3
+package books;//Change
 
 	import java.sql.Connection;
 	import java.sql.DriverManager;

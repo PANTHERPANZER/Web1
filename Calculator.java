@@ -1,4 +1,4 @@
-import java.util.Scanner;//Change for B3
+import java.util.Scanner;//Change
 
 public class Calculator 
 {
