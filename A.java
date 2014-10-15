@@ -1,4 +1,4 @@
-package rsgl;
+package rsgl;//change for B3
 
 import java.awt.* ;
 import java.awt.event.*;
