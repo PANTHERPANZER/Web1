@@ -1,4 +1,4 @@
-package DBP;//My C4
+package DBP;//Change for C4
 
 import java.sql.Connection;
 import java.sql.DriverManager;

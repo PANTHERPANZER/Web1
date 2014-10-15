@@ -1,4 +1,4 @@
-import java.util.Scanner;//My C4
+import java.util.Scanner;//Change for C4
 
 public class Calculator 
 {
